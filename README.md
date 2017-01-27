@@ -1,3 +1,3 @@
 # CN
 
-Computer Network Assignments : University of Souther Maine
+Computer Network Assignments - Java, University of Southern Maine
