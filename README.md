@@ -1,3 +1,2 @@
 # CN
-
-Computer Network Assignments - Java, University of Southern Maine
+Computer Network assignments, HTTP server from scratch And Cookie Tossing Game (Multithreaded) using Socket/server 
