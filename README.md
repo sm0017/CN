@@ -13,4 +13,7 @@ The program handles the logic for socket creation and registering the service at
 
 It was easier to create the socket, register service at particular port and communication between a server and the client using Java. Although, it was the simple program, give an idea about the how TCP/IP protocol works. I found it easier to use Scanner class to read entered guess(int) instead of the DataInputStream. The server wasn't reading entered integer correctly when I used DataInputStream.read() or readInt() method. 
 
+Project 2 - Simple HTTP Server using TCP 
+
+
 
